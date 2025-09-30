@@ -20,7 +20,5 @@ No setor de Beleza, onde tendências e estoque são críticos, a **capacidade de
 
 Quer ver o meu código em ação?
 
-* **[Ver o Script SQL Completo (no GitHub)](./nina_makeup_orders_analysis.sql)**
-
 * **[Testar o Código Online (OneCompiler)](https://onecompiler.com/postgresql/43xs24kjh)**
   
